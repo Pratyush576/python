@@ -17,6 +17,14 @@ def subtract(a, b):
     return a - b
 
 
+def listProcessing():
+    list = [1, 5, 23, 54, 22, 34, 66, 54, 75]
+    for i in range(len(list)):
+        print list[i]
+    print list[1:4]
+    print list[5:]
+
+
 # Returns current time
 def whatTimeIsIt():
     localtime = time.asctime(time.localtime(time.time()))
@@ -56,14 +64,19 @@ def tryExceptFinllyDemo(number):
         print "finally block will always be executed!!!"
 
 
+def StringBasics():
+    str = "abcdefedcba"
+    print str
+    print "Reverse of String is ", str[::-1]
+    if str == str[::-1]:
+        print "String is palindrome"
+
 
 class basics:
     
     def __init__(self, name):
         print "Name is ", name
+
     def test(self):
         print "test api in basics class"
-        
-base=basics("Pratyush")
-base.test()
 
