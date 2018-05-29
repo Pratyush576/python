@@ -12,6 +12,6 @@ data["b"] = { "name" : "bRam",
             "phone" : 9837892379847891
     }
 import json
-s=json.dumps(data)
+s = json.dumps(data)
 print s  
 print type(data) , type(s)
