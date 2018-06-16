@@ -6,5 +6,7 @@ Created on 17-May-2018
 from com.python.basics import basicAPI, ParentClass, ChildClass
 from com.python.basics.ParentClass import Parent
 
-basicAPI.StringBasics()
+basicAPI.StringBasics("hddkljwdkl")
+print "#############"
+basicAPI.DictionaryImpl()
 

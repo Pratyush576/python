@@ -1,0 +1,13 @@
+[
+  "src/com/python/test/test_pytestdemo.py::test_answer",
+  "src/com/python/test/test_pytestdemo.py::test_answer1",
+  "src/com/python/test/test_pytestdemo.py::test_answer2",
+  "src/com/python/test/test_pytestdemo.py::test_answer3",
+  "src/com/python/test/test_pytestdemo.py::test_answer4",
+  "src/com/python/test/test_pytestdemo.py::test_answer5[2]",
+  "src/com/python/test/test_pytestdemo.py::test_answer5[4]",
+  "src/com/python/test/test_pytestdemo.py::test_answer5[6]",
+  "src/com/python/test/test_pytestdemo.py::test_answer5[7]",
+  "src/com/python/test/test_pytestdemo.py::test_increment[1-2]",
+  "src/com/python/test/test_pytestdemo.py::test_increment[2-4]"
+]

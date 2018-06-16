@@ -1,0 +1,18 @@
+{
+  "src/com/python/test/pytestdemo.py::test_answer1": true,
+  "src/com/python/test/pytestdemo.py::test_answer5[2]": true,
+  "src/com/python/test/pytestdemo.py::test_answer5[4]": true,
+  "src/com/python/test/pytestdemo.py::test_answer5[6]": true,
+  "src/com/python/test/pytestdemo.py::test_answer5[7]": true,
+  "src/com/python/test/pytestdemo.py::test_increment[2-4]": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer1": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer2": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer3": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer4": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer5[2]": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer5[4]": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer5[6]": true,
+  "src/com/python/test/test_pytestdemo.py::test_answer5[7]": true,
+  "src/com/python/test/test_pytestdemo.py::test_increment[2-4]": true
+}
